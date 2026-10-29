@@ -1,0 +1,301 @@
+project_id,family_id,family_name,relationship_to_family,conceptual_overlap_level
+P0001,F01,Classroom Attendance Systems,Core / original concept of the family,High
+P0002,F01,Classroom Attendance Systems,Solves the same core problem using a different method,High
+P0003,F01,Classroom Attendance Systems,Extends the core problem with fraud/tamper resistance,Medium
+P0004,F01,Classroom Attendance Systems,Re-approaches the core problem with privacy constraints,Medium
+P0005,F01,Classroom Attendance Systems,Builds forward-looking analytics on top of the core problem,Medium
+P0006,F01,Classroom Attendance Systems,Re-targets the core problem for low-resource environments,Medium
+P0007,F01,Classroom Attendance Systems,Fuses additional data streams into the core problem,Medium
+P0008,F01,Classroom Attendance Systems,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0009,F01,Classroom Attendance Systems,Re-targets the core problem for accessibility needs,Low
+P0010,F01,Classroom Attendance Systems,Related system solving a resource-optimization problem adjacent to the family,Low
+P0011,F02,Adaptive Learning Path Platforms,Core / original concept of the family,High
+P0012,F02,Adaptive Learning Path Platforms,Solves the same core problem using a different method,High
+P0013,F02,Adaptive Learning Path Platforms,Extends the core problem with fraud/tamper resistance,Medium
+P0014,F02,Adaptive Learning Path Platforms,Re-approaches the core problem with privacy constraints,Medium
+P0015,F02,Adaptive Learning Path Platforms,Builds forward-looking analytics on top of the core problem,Medium
+P0016,F02,Adaptive Learning Path Platforms,Re-targets the core problem for low-resource environments,Medium
+P0017,F02,Adaptive Learning Path Platforms,Fuses additional data streams into the core problem,Medium
+P0018,F02,Adaptive Learning Path Platforms,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0019,F02,Adaptive Learning Path Platforms,Re-targets the core problem for accessibility needs,Low
+P0020,F02,Adaptive Learning Path Platforms,Related system solving a resource-optimization problem adjacent to the family,Low
+P0021,F03,Assignment Plagiarism & Code-Similarity Detection,Core / original concept of the family,High
+P0022,F03,Assignment Plagiarism & Code-Similarity Detection,Solves the same core problem using a different method,High
+P0023,F03,Assignment Plagiarism & Code-Similarity Detection,Extends the core problem with fraud/tamper resistance,Medium
+P0024,F03,Assignment Plagiarism & Code-Similarity Detection,Re-approaches the core problem with privacy constraints,Medium
+P0025,F03,Assignment Plagiarism & Code-Similarity Detection,Builds forward-looking analytics on top of the core problem,Medium
+P0026,F03,Assignment Plagiarism & Code-Similarity Detection,Re-targets the core problem for low-resource environments,Medium
+P0027,F03,Assignment Plagiarism & Code-Similarity Detection,Fuses additional data streams into the core problem,Medium
+P0028,F03,Assignment Plagiarism & Code-Similarity Detection,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0029,F03,Assignment Plagiarism & Code-Similarity Detection,Re-targets the core problem for accessibility needs,Low
+P0030,F03,Assignment Plagiarism & Code-Similarity Detection,Related system solving a resource-optimization problem adjacent to the family,Low
+P0031,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Core / original concept of the family,High
+P0032,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Solves the same core problem using a different method,High
+P0033,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Extends the core problem with fraud/tamper resistance,Medium
+P0034,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Re-approaches the core problem with privacy constraints,Medium
+P0035,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Builds forward-looking analytics on top of the core problem,Medium
+P0036,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Re-targets the core problem for low-resource environments,Medium
+P0037,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Fuses additional data streams into the core problem,Medium
+P0038,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0039,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Re-targets the core problem for accessibility needs,Low
+P0040,F04,Diabetic Retinopathy & Medical Image Diagnosis Assistants,Related system solving a resource-optimization problem adjacent to the family,Low
+P0041,F05,Mental Health Monitoring from Behavioral & Wearable Data,Core / original concept of the family,High
+P0042,F05,Mental Health Monitoring from Behavioral & Wearable Data,Solves the same core problem using a different method,High
+P0043,F05,Mental Health Monitoring from Behavioral & Wearable Data,Extends the core problem with fraud/tamper resistance,Medium
+P0044,F05,Mental Health Monitoring from Behavioral & Wearable Data,Re-approaches the core problem with privacy constraints,Medium
+P0045,F05,Mental Health Monitoring from Behavioral & Wearable Data,Builds forward-looking analytics on top of the core problem,Medium
+P0046,F05,Mental Health Monitoring from Behavioral & Wearable Data,Re-targets the core problem for low-resource environments,Medium
+P0047,F05,Mental Health Monitoring from Behavioral & Wearable Data,Fuses additional data streams into the core problem,Medium
+P0048,F05,Mental Health Monitoring from Behavioral & Wearable Data,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0049,F05,Mental Health Monitoring from Behavioral & Wearable Data,Re-targets the core problem for accessibility needs,Low
+P0050,F05,Mental Health Monitoring from Behavioral & Wearable Data,Related system solving a resource-optimization problem adjacent to the family,Low
+P0051,F06,Hospital Patient Flow & Bed Allocation Optimization,Core / original concept of the family,High
+P0052,F06,Hospital Patient Flow & Bed Allocation Optimization,Solves the same core problem using a different method,High
+P0053,F06,Hospital Patient Flow & Bed Allocation Optimization,Extends the core problem with fraud/tamper resistance,Medium
+P0054,F06,Hospital Patient Flow & Bed Allocation Optimization,Re-approaches the core problem with privacy constraints,Medium
+P0055,F06,Hospital Patient Flow & Bed Allocation Optimization,Builds forward-looking analytics on top of the core problem,Medium
+P0056,F06,Hospital Patient Flow & Bed Allocation Optimization,Re-targets the core problem for low-resource environments,Medium
+P0057,F06,Hospital Patient Flow & Bed Allocation Optimization,Fuses additional data streams into the core problem,Medium
+P0058,F06,Hospital Patient Flow & Bed Allocation Optimization,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0059,F06,Hospital Patient Flow & Bed Allocation Optimization,Re-targets the core problem for accessibility needs,Low
+P0060,F06,Hospital Patient Flow & Bed Allocation Optimization,Related system solving a resource-optimization problem adjacent to the family,Low
+P0061,F07,Phishing Email & URL Detection,Core / original concept of the family,High
+P0062,F07,Phishing Email & URL Detection,Solves the same core problem using a different method,High
+P0063,F07,Phishing Email & URL Detection,Extends the core problem with fraud/tamper resistance,Medium
+P0064,F07,Phishing Email & URL Detection,Re-approaches the core problem with privacy constraints,Medium
+P0065,F07,Phishing Email & URL Detection,Builds forward-looking analytics on top of the core problem,Medium
+P0066,F07,Phishing Email & URL Detection,Re-targets the core problem for low-resource environments,Medium
+P0067,F07,Phishing Email & URL Detection,Fuses additional data streams into the core problem,Medium
+P0068,F07,Phishing Email & URL Detection,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0069,F07,Phishing Email & URL Detection,Re-targets the core problem for accessibility needs,Low
+P0070,F07,Phishing Email & URL Detection,Related system solving a resource-optimization problem adjacent to the family,Low
+P0071,F08,Network Intrusion Detection Systems,Core / original concept of the family,High
+P0072,F08,Network Intrusion Detection Systems,Solves the same core problem using a different method,High
+P0073,F08,Network Intrusion Detection Systems,Extends the core problem with fraud/tamper resistance,Medium
+P0074,F08,Network Intrusion Detection Systems,Re-approaches the core problem with privacy constraints,Medium
+P0075,F08,Network Intrusion Detection Systems,Builds forward-looking analytics on top of the core problem,Medium
+P0076,F08,Network Intrusion Detection Systems,Re-targets the core problem for low-resource environments,Medium
+P0077,F08,Network Intrusion Detection Systems,Fuses additional data streams into the core problem,Medium
+P0078,F08,Network Intrusion Detection Systems,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0079,F08,Network Intrusion Detection Systems,Re-targets the core problem for accessibility needs,Low
+P0080,F08,Network Intrusion Detection Systems,Related system solving a resource-optimization problem adjacent to the family,Low
+P0081,F09,Smart Traffic Signal Control & Congestion Prediction,Core / original concept of the family,High
+P0082,F09,Smart Traffic Signal Control & Congestion Prediction,Solves the same core problem using a different method,High
+P0083,F09,Smart Traffic Signal Control & Congestion Prediction,Extends the core problem with fraud/tamper resistance,Medium
+P0084,F09,Smart Traffic Signal Control & Congestion Prediction,Re-approaches the core problem with privacy constraints,Medium
+P0085,F09,Smart Traffic Signal Control & Congestion Prediction,Builds forward-looking analytics on top of the core problem,Medium
+P0086,F09,Smart Traffic Signal Control & Congestion Prediction,Re-targets the core problem for low-resource environments,Medium
+P0087,F09,Smart Traffic Signal Control & Congestion Prediction,Fuses additional data streams into the core problem,Medium
+P0088,F09,Smart Traffic Signal Control & Congestion Prediction,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0089,F09,Smart Traffic Signal Control & Congestion Prediction,Re-targets the core problem for accessibility needs,Low
+P0090,F09,Smart Traffic Signal Control & Congestion Prediction,Related system solving a resource-optimization problem adjacent to the family,Low
+P0091,F10,Urban Parking Availability Detection & Reservation,Core / original concept of the family,High
+P0092,F10,Urban Parking Availability Detection & Reservation,Solves the same core problem using a different method,High
+P0093,F10,Urban Parking Availability Detection & Reservation,Extends the core problem with fraud/tamper resistance,Medium
+P0094,F10,Urban Parking Availability Detection & Reservation,Re-approaches the core problem with privacy constraints,Medium
+P0095,F10,Urban Parking Availability Detection & Reservation,Builds forward-looking analytics on top of the core problem,Medium
+P0096,F10,Urban Parking Availability Detection & Reservation,Re-targets the core problem for low-resource environments,Medium
+P0097,F10,Urban Parking Availability Detection & Reservation,Fuses additional data streams into the core problem,Medium
+P0098,F10,Urban Parking Availability Detection & Reservation,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0099,F10,Urban Parking Availability Detection & Reservation,Re-targets the core problem for accessibility needs,Low
+P0100,F10,Urban Parking Availability Detection & Reservation,Related system solving a resource-optimization problem adjacent to the family,Low
+P0101,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Core / original concept of the family,High
+P0102,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Solves the same core problem using a different method,High
+P0103,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Extends the core problem with fraud/tamper resistance,Medium
+P0104,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Re-approaches the core problem with privacy constraints,Medium
+P0105,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Builds forward-looking analytics on top of the core problem,Medium
+P0106,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Re-targets the core problem for low-resource environments,Medium
+P0107,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Fuses additional data streams into the core problem,Medium
+P0108,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0109,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Re-targets the core problem for accessibility needs,Low
+P0110,F11,Campus Lost-and-Found / Peer Marketplace Platforms,Related system solving a resource-optimization problem adjacent to the family,Low
+P0111,F12,Hyperlocal Food Delivery & Kitchen Management,Core / original concept of the family,High
+P0112,F12,Hyperlocal Food Delivery & Kitchen Management,Solves the same core problem using a different method,High
+P0113,F12,Hyperlocal Food Delivery & Kitchen Management,Extends the core problem with fraud/tamper resistance,Medium
+P0114,F12,Hyperlocal Food Delivery & Kitchen Management,Re-approaches the core problem with privacy constraints,Medium
+P0115,F12,Hyperlocal Food Delivery & Kitchen Management,Builds forward-looking analytics on top of the core problem,Medium
+P0116,F12,Hyperlocal Food Delivery & Kitchen Management,Re-targets the core problem for low-resource environments,Medium
+P0117,F12,Hyperlocal Food Delivery & Kitchen Management,Fuses additional data streams into the core problem,Medium
+P0118,F12,Hyperlocal Food Delivery & Kitchen Management,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0119,F12,Hyperlocal Food Delivery & Kitchen Management,Re-targets the core problem for accessibility needs,Low
+P0120,F12,Hyperlocal Food Delivery & Kitchen Management,Related system solving a resource-optimization problem adjacent to the family,Low
+P0121,F13,Legal & Policy Document Summarization Assistants,Core / original concept of the family,High
+P0122,F13,Legal & Policy Document Summarization Assistants,Solves the same core problem using a different method,High
+P0123,F13,Legal & Policy Document Summarization Assistants,Extends the core problem with fraud/tamper resistance,Medium
+P0124,F13,Legal & Policy Document Summarization Assistants,Re-approaches the core problem with privacy constraints,Medium
+P0125,F13,Legal & Policy Document Summarization Assistants,Builds forward-looking analytics on top of the core problem,Medium
+P0126,F13,Legal & Policy Document Summarization Assistants,Re-targets the core problem for low-resource environments,Medium
+P0127,F13,Legal & Policy Document Summarization Assistants,Fuses additional data streams into the core problem,Medium
+P0128,F13,Legal & Policy Document Summarization Assistants,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0129,F13,Legal & Policy Document Summarization Assistants,Re-targets the core problem for accessibility needs,Low
+P0130,F13,Legal & Policy Document Summarization Assistants,Related system solving a resource-optimization problem adjacent to the family,Low
+P0131,F14,Multilingual Customer Support Chatbots,Core / original concept of the family,High
+P0132,F14,Multilingual Customer Support Chatbots,Solves the same core problem using a different method,High
+P0133,F14,Multilingual Customer Support Chatbots,Extends the core problem with fraud/tamper resistance,Medium
+P0134,F14,Multilingual Customer Support Chatbots,Re-approaches the core problem with privacy constraints,Medium
+P0135,F14,Multilingual Customer Support Chatbots,Builds forward-looking analytics on top of the core problem,Medium
+P0136,F14,Multilingual Customer Support Chatbots,Re-targets the core problem for low-resource environments,Medium
+P0137,F14,Multilingual Customer Support Chatbots,Fuses additional data streams into the core problem,Medium
+P0138,F14,Multilingual Customer Support Chatbots,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0139,F14,Multilingual Customer Support Chatbots,Re-targets the core problem for accessibility needs,Low
+P0140,F14,Multilingual Customer Support Chatbots,Related system solving a resource-optimization problem adjacent to the family,Low
+P0141,F15,Crop Disease Detection from Leaf Images,Core / original concept of the family,High
+P0142,F15,Crop Disease Detection from Leaf Images,Solves the same core problem using a different method,High
+P0143,F15,Crop Disease Detection from Leaf Images,Extends the core problem with fraud/tamper resistance,Medium
+P0144,F15,Crop Disease Detection from Leaf Images,Re-approaches the core problem with privacy constraints,Medium
+P0145,F15,Crop Disease Detection from Leaf Images,Builds forward-looking analytics on top of the core problem,Medium
+P0146,F15,Crop Disease Detection from Leaf Images,Re-targets the core problem for low-resource environments,Medium
+P0147,F15,Crop Disease Detection from Leaf Images,Fuses additional data streams into the core problem,Medium
+P0148,F15,Crop Disease Detection from Leaf Images,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0149,F15,Crop Disease Detection from Leaf Images,Re-targets the core problem for accessibility needs,Low
+P0150,F15,Crop Disease Detection from Leaf Images,Related system solving a resource-optimization problem adjacent to the family,Low
+P0151,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Core / original concept of the family,High
+P0152,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Solves the same core problem using a different method,High
+P0153,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Extends the core problem with fraud/tamper resistance,Medium
+P0154,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Re-approaches the core problem with privacy constraints,Medium
+P0155,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Builds forward-looking analytics on top of the core problem,Medium
+P0156,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Re-targets the core problem for low-resource environments,Medium
+P0157,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Fuses additional data streams into the core problem,Medium
+P0158,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0159,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Re-targets the core problem for accessibility needs,Low
+P0160,F16,Automated Number-Plate & Vehicle Recognition for Campus Security,Related system solving a resource-optimization problem adjacent to the family,Low
+P0161,F17,Real-Time Sign Language Recognition & Translation,Core / original concept of the family,High
+P0162,F17,Real-Time Sign Language Recognition & Translation,Solves the same core problem using a different method,High
+P0163,F17,Real-Time Sign Language Recognition & Translation,Extends the core problem with fraud/tamper resistance,Medium
+P0164,F17,Real-Time Sign Language Recognition & Translation,Re-approaches the core problem with privacy constraints,Medium
+P0165,F17,Real-Time Sign Language Recognition & Translation,Builds forward-looking analytics on top of the core problem,Medium
+P0166,F17,Real-Time Sign Language Recognition & Translation,Re-targets the core problem for low-resource environments,Medium
+P0167,F17,Real-Time Sign Language Recognition & Translation,Fuses additional data streams into the core problem,Medium
+P0168,F17,Real-Time Sign Language Recognition & Translation,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0169,F17,Real-Time Sign Language Recognition & Translation,Re-targets the core problem for accessibility needs,Low
+P0170,F17,Real-Time Sign Language Recognition & Translation,Related system solving a resource-optimization problem adjacent to the family,Low
+P0171,F18,Employee Attrition Prediction & Workforce Analytics,Core / original concept of the family,High
+P0172,F18,Employee Attrition Prediction & Workforce Analytics,Solves the same core problem using a different method,High
+P0173,F18,Employee Attrition Prediction & Workforce Analytics,Extends the core problem with fraud/tamper resistance,Medium
+P0174,F18,Employee Attrition Prediction & Workforce Analytics,Re-approaches the core problem with privacy constraints,Medium
+P0175,F18,Employee Attrition Prediction & Workforce Analytics,Builds forward-looking analytics on top of the core problem,Medium
+P0176,F18,Employee Attrition Prediction & Workforce Analytics,Re-targets the core problem for low-resource environments,Medium
+P0177,F18,Employee Attrition Prediction & Workforce Analytics,Fuses additional data streams into the core problem,Medium
+P0178,F18,Employee Attrition Prediction & Workforce Analytics,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0179,F18,Employee Attrition Prediction & Workforce Analytics,Re-targets the core problem for accessibility needs,Low
+P0180,F18,Employee Attrition Prediction & Workforce Analytics,Related system solving a resource-optimization problem adjacent to the family,Low
+P0181,F19,Retail Sales Forecasting & Inventory Analytics,Core / original concept of the family,High
+P0182,F19,Retail Sales Forecasting & Inventory Analytics,Solves the same core problem using a different method,High
+P0183,F19,Retail Sales Forecasting & Inventory Analytics,Extends the core problem with fraud/tamper resistance,Medium
+P0184,F19,Retail Sales Forecasting & Inventory Analytics,Re-approaches the core problem with privacy constraints,Medium
+P0185,F19,Retail Sales Forecasting & Inventory Analytics,Builds forward-looking analytics on top of the core problem,Medium
+P0186,F19,Retail Sales Forecasting & Inventory Analytics,Re-targets the core problem for low-resource environments,Medium
+P0187,F19,Retail Sales Forecasting & Inventory Analytics,Fuses additional data streams into the core problem,Medium
+P0188,F19,Retail Sales Forecasting & Inventory Analytics,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0189,F19,Retail Sales Forecasting & Inventory Analytics,Re-targets the core problem for accessibility needs,Low
+P0190,F19,Retail Sales Forecasting & Inventory Analytics,Related system solving a resource-optimization problem adjacent to the family,Low
+P0191,F20,Autonomous Indoor Delivery & Navigation Robots,Core / original concept of the family,High
+P0192,F20,Autonomous Indoor Delivery & Navigation Robots,Solves the same core problem using a different method,High
+P0193,F20,Autonomous Indoor Delivery & Navigation Robots,Extends the core problem with fraud/tamper resistance,Medium
+P0194,F20,Autonomous Indoor Delivery & Navigation Robots,Re-approaches the core problem with privacy constraints,Medium
+P0195,F20,Autonomous Indoor Delivery & Navigation Robots,Builds forward-looking analytics on top of the core problem,Medium
+P0196,F20,Autonomous Indoor Delivery & Navigation Robots,Re-targets the core problem for low-resource environments,Medium
+P0197,F20,Autonomous Indoor Delivery & Navigation Robots,Fuses additional data streams into the core problem,Medium
+P0198,F20,Autonomous Indoor Delivery & Navigation Robots,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0199,F20,Autonomous Indoor Delivery & Navigation Robots,Re-targets the core problem for accessibility needs,Low
+P0200,F20,Autonomous Indoor Delivery & Navigation Robots,Related system solving a resource-optimization problem adjacent to the family,Low
+P0201,F21,Smart Agricultural Irrigation Automation,Core / original concept of the family,High
+P0202,F21,Smart Agricultural Irrigation Automation,Solves the same core problem using a different method,High
+P0203,F21,Smart Agricultural Irrigation Automation,Extends the core problem with fraud/tamper resistance,Medium
+P0204,F21,Smart Agricultural Irrigation Automation,Re-approaches the core problem with privacy constraints,Medium
+P0205,F21,Smart Agricultural Irrigation Automation,Builds forward-looking analytics on top of the core problem,Medium
+P0206,F21,Smart Agricultural Irrigation Automation,Re-targets the core problem for low-resource environments,Medium
+P0207,F21,Smart Agricultural Irrigation Automation,Fuses additional data streams into the core problem,Medium
+P0208,F21,Smart Agricultural Irrigation Automation,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0209,F21,Smart Agricultural Irrigation Automation,Re-targets the core problem for accessibility needs,Low
+P0210,F21,Smart Agricultural Irrigation Automation,Related system solving a resource-optimization problem adjacent to the family,Low
+P0211,F22,Personalized Product Recommendation Engines,Core / original concept of the family,High
+P0212,F22,Personalized Product Recommendation Engines,Solves the same core problem using a different method,High
+P0213,F22,Personalized Product Recommendation Engines,Extends the core problem with fraud/tamper resistance,Medium
+P0214,F22,Personalized Product Recommendation Engines,Re-approaches the core problem with privacy constraints,Medium
+P0215,F22,Personalized Product Recommendation Engines,Builds forward-looking analytics on top of the core problem,Medium
+P0216,F22,Personalized Product Recommendation Engines,Re-targets the core problem for low-resource environments,Medium
+P0217,F22,Personalized Product Recommendation Engines,Fuses additional data streams into the core problem,Medium
+P0218,F22,Personalized Product Recommendation Engines,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0219,F22,Personalized Product Recommendation Engines,Re-targets the core problem for accessibility needs,Low
+P0220,F22,Personalized Product Recommendation Engines,Related system solving a resource-optimization problem adjacent to the family,Low
+P0221,F23,Fake Review & Review-Authenticity Detection,Core / original concept of the family,High
+P0222,F23,Fake Review & Review-Authenticity Detection,Solves the same core problem using a different method,High
+P0223,F23,Fake Review & Review-Authenticity Detection,Extends the core problem with fraud/tamper resistance,Medium
+P0224,F23,Fake Review & Review-Authenticity Detection,Re-approaches the core problem with privacy constraints,Medium
+P0225,F23,Fake Review & Review-Authenticity Detection,Builds forward-looking analytics on top of the core problem,Medium
+P0226,F23,Fake Review & Review-Authenticity Detection,Re-targets the core problem for low-resource environments,Medium
+P0227,F23,Fake Review & Review-Authenticity Detection,Fuses additional data streams into the core problem,Medium
+P0228,F23,Fake Review & Review-Authenticity Detection,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0229,F23,Fake Review & Review-Authenticity Detection,Re-targets the core problem for accessibility needs,Low
+P0230,F23,Fake Review & Review-Authenticity Detection,Related system solving a resource-optimization problem adjacent to the family,Low
+P0231,F24,Serverless Microservices Monitoring & Auto-Scaling,Core / original concept of the family,High
+P0232,F24,Serverless Microservices Monitoring & Auto-Scaling,Solves the same core problem using a different method,High
+P0233,F24,Serverless Microservices Monitoring & Auto-Scaling,Extends the core problem with fraud/tamper resistance,Medium
+P0234,F24,Serverless Microservices Monitoring & Auto-Scaling,Re-approaches the core problem with privacy constraints,Medium
+P0235,F24,Serverless Microservices Monitoring & Auto-Scaling,Builds forward-looking analytics on top of the core problem,Medium
+P0236,F24,Serverless Microservices Monitoring & Auto-Scaling,Re-targets the core problem for low-resource environments,Medium
+P0237,F24,Serverless Microservices Monitoring & Auto-Scaling,Fuses additional data streams into the core problem,Medium
+P0238,F24,Serverless Microservices Monitoring & Auto-Scaling,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0239,F24,Serverless Microservices Monitoring & Auto-Scaling,Re-targets the core problem for accessibility needs,Low
+P0240,F24,Serverless Microservices Monitoring & Auto-Scaling,Related system solving a resource-optimization problem adjacent to the family,Low
+P0241,F25,Distributed Fault-Tolerant File Storage & Sharing,Core / original concept of the family,High
+P0242,F25,Distributed Fault-Tolerant File Storage & Sharing,Solves the same core problem using a different method,High
+P0243,F25,Distributed Fault-Tolerant File Storage & Sharing,Extends the core problem with fraud/tamper resistance,Medium
+P0244,F25,Distributed Fault-Tolerant File Storage & Sharing,Re-approaches the core problem with privacy constraints,Medium
+P0245,F25,Distributed Fault-Tolerant File Storage & Sharing,Builds forward-looking analytics on top of the core problem,Medium
+P0246,F25,Distributed Fault-Tolerant File Storage & Sharing,Re-targets the core problem for low-resource environments,Medium
+P0247,F25,Distributed Fault-Tolerant File Storage & Sharing,Fuses additional data streams into the core problem,Medium
+P0248,F25,Distributed Fault-Tolerant File Storage & Sharing,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0249,F25,Distributed Fault-Tolerant File Storage & Sharing,Re-targets the core problem for accessibility needs,Low
+P0250,F25,Distributed Fault-Tolerant File Storage & Sharing,Related system solving a resource-optimization problem adjacent to the family,Low
+P0251,F26,AI-Assisted Code Review & Bug Prediction,Core / original concept of the family,High
+P0252,F26,AI-Assisted Code Review & Bug Prediction,Solves the same core problem using a different method,High
+P0253,F26,AI-Assisted Code Review & Bug Prediction,Extends the core problem with fraud/tamper resistance,Medium
+P0254,F26,AI-Assisted Code Review & Bug Prediction,Re-approaches the core problem with privacy constraints,Medium
+P0255,F26,AI-Assisted Code Review & Bug Prediction,Builds forward-looking analytics on top of the core problem,Medium
+P0256,F26,AI-Assisted Code Review & Bug Prediction,Re-targets the core problem for low-resource environments,Medium
+P0257,F26,AI-Assisted Code Review & Bug Prediction,Fuses additional data streams into the core problem,Medium
+P0258,F26,AI-Assisted Code Review & Bug Prediction,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0259,F26,AI-Assisted Code Review & Bug Prediction,Re-targets the core problem for accessibility needs,Low
+P0260,F26,AI-Assisted Code Review & Bug Prediction,Related system solving a resource-optimization problem adjacent to the family,Low
+P0261,F27,Automated API Documentation & Test-Case Generation,Core / original concept of the family,High
+P0262,F27,Automated API Documentation & Test-Case Generation,Solves the same core problem using a different method,High
+P0263,F27,Automated API Documentation & Test-Case Generation,Extends the core problem with fraud/tamper resistance,Medium
+P0264,F27,Automated API Documentation & Test-Case Generation,Re-approaches the core problem with privacy constraints,Medium
+P0265,F27,Automated API Documentation & Test-Case Generation,Builds forward-looking analytics on top of the core problem,Medium
+P0266,F27,Automated API Documentation & Test-Case Generation,Re-targets the core problem for low-resource environments,Medium
+P0267,F27,Automated API Documentation & Test-Case Generation,Fuses additional data streams into the core problem,Medium
+P0268,F27,Automated API Documentation & Test-Case Generation,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0269,F27,Automated API Documentation & Test-Case Generation,Re-targets the core problem for accessibility needs,Low
+P0270,F27,Automated API Documentation & Test-Case Generation,Related system solving a resource-optimization problem adjacent to the family,Low
+P0271,F28,Student Academic Performance Prediction & Early Intervention,Core / original concept of the family,High
+P0272,F28,Student Academic Performance Prediction & Early Intervention,Solves the same core problem using a different method,High
+P0273,F28,Student Academic Performance Prediction & Early Intervention,Extends the core problem with fraud/tamper resistance,Medium
+P0274,F28,Student Academic Performance Prediction & Early Intervention,Re-approaches the core problem with privacy constraints,Medium
+P0275,F28,Student Academic Performance Prediction & Early Intervention,Builds forward-looking analytics on top of the core problem,Medium
+P0276,F28,Student Academic Performance Prediction & Early Intervention,Re-targets the core problem for low-resource environments,Medium
+P0277,F28,Student Academic Performance Prediction & Early Intervention,Fuses additional data streams into the core problem,Medium
+P0278,F28,Student Academic Performance Prediction & Early Intervention,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0279,F28,Student Academic Performance Prediction & Early Intervention,Re-targets the core problem for accessibility needs,Low
+P0280,F28,Student Academic Performance Prediction & Early Intervention,Related system solving a resource-optimization problem adjacent to the family,Low
+P0281,F29,Crop Yield & Agricultural Risk Prediction,Core / original concept of the family,High
+P0282,F29,Crop Yield & Agricultural Risk Prediction,Solves the same core problem using a different method,High
+P0283,F29,Crop Yield & Agricultural Risk Prediction,Extends the core problem with fraud/tamper resistance,Medium
+P0284,F29,Crop Yield & Agricultural Risk Prediction,Re-approaches the core problem with privacy constraints,Medium
+P0285,F29,Crop Yield & Agricultural Risk Prediction,Builds forward-looking analytics on top of the core problem,Medium
+P0286,F29,Crop Yield & Agricultural Risk Prediction,Re-targets the core problem for low-resource environments,Medium
+P0287,F29,Crop Yield & Agricultural Risk Prediction,Fuses additional data streams into the core problem,Medium
+P0288,F29,Crop Yield & Agricultural Risk Prediction,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0289,F29,Crop Yield & Agricultural Risk Prediction,Re-targets the core problem for accessibility needs,Low
+P0290,F29,Crop Yield & Agricultural Risk Prediction,Related system solving a resource-optimization problem adjacent to the family,Low
+P0291,F30,AI-Based Resume Screening & Candidate-Job Matching,Core / original concept of the family,High
+P0292,F30,AI-Based Resume Screening & Candidate-Job Matching,Solves the same core problem using a different method,High
+P0293,F30,AI-Based Resume Screening & Candidate-Job Matching,Extends the core problem with fraud/tamper resistance,Medium
+P0294,F30,AI-Based Resume Screening & Candidate-Job Matching,Re-approaches the core problem with privacy constraints,Medium
+P0295,F30,AI-Based Resume Screening & Candidate-Job Matching,Builds forward-looking analytics on top of the core problem,Medium
+P0296,F30,AI-Based Resume Screening & Candidate-Job Matching,Re-targets the core problem for low-resource environments,Medium
+P0297,F30,AI-Based Resume Screening & Candidate-Job Matching,Fuses additional data streams into the core problem,Medium
+P0298,F30,AI-Based Resume Screening & Candidate-Job Matching,Adds monitoring/anomaly-detection on top of the core system's data,Low
+P0299,F30,AI-Based Resume Screening & Candidate-Job Matching,Re-targets the core problem for accessibility needs,Low
+P0300,F30,AI-Based Resume Screening & Candidate-Job Matching,Related system solving a resource-optimization problem adjacent to the family,Low

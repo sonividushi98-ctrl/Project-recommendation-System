@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "P001",
+    "title": "Smart Waste Collection",
+    "description": "A system that uses sensors to monitor garbage bin capacity and optimize waste collection routes.",
+    "technologies": ["IoT", "Python", "Web Development"],
+    "domain": "Environment"
+  },
+  {
+    "id": "P002",
+    "title": "Student Attendance Using Face Recognition",
+    "description": "An automated attendance system that uses facial recognition to identify students and record attendance.",
+    "technologies": ["Python", "Computer Vision", "Machine Learning"],
+    "domain": "Education"
+  },
+  {
+    "id": "P003",
+    "title": "Campus Energy Monitoring",
+    "description": "A monitoring platform that tracks electricity consumption across campus buildings and identifies energy-saving opportunities.",
+    "technologies": ["IoT", "Data Analytics", "Python"],
+    "domain": "Energy"
+  },
+  {
+    "id": "P004",
+    "title": "Food Donation Coordination",
+    "description": "A web application that connects restaurants with charities to coordinate surplus food donations and reduce food waste.",
+    "technologies": ["React", "FastAPI", "Database"],
+    "domain": "Social Impact"
+  },
+  {
+    "id": "P005",
+    "title": "Plant Disease Detection",
+    "description": "A machine learning application that analyzes leaf images to identify possible plant diseases and provide treatment guidance.",
+    "technologies": ["Python", "Deep Learning", "Computer Vision"],
+    "domain": "Agriculture"
+  }
+]
