@@ -435,8 +435,10 @@ export default function App() {
       if (autoSwitchToChat) {
         setViewMode("chat");
       }
+      return newConv;
     } catch (err) {
       setStatusMessage(err.message || "Could not start new chat.");
+      return null;
     } finally {
       setLoading(false);
     }
@@ -511,11 +513,18 @@ export default function App() {
     const textToSend = (messageText !== null ? messageText : inputValue).trim();
     if (!textToSend || loading) return;
 
-    if (!activeConvId) {
-      await handleNewChat(true);
+    let currentConvId = activeConvId;
+    if (!currentConvId) {
+      const created = await handleNewChat(true);
+      if (created && created.id) {
+        currentConvId = created.id;
+      }
     }
 
-    const currentConvId = activeConvId;
+    if (!currentConvId) {
+      setStatusMessage("Cannot start chat session. Please ensure backend is running.");
+      return;
+    }
 
     const tempUserMsg = {
       id: `user_${Date.now()}`,
